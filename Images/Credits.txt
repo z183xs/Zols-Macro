@@ -1,0 +1,8 @@
+CREDITS
+
+Special thanks to vexsyx and the OysterDetector project for providing many of the biome and additional images used in this macro.
+
+OysterDetector:
+https://github.com/vexsyx/OysterDetector
+
+Thank you for making these resources available.
