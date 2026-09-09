@@ -102,7 +102,12 @@
       "category": "Event",
       "image": "eggland.png"
     },
-
+    "INCINERATOR": {
+      "displayName": "incinerator",
+      "category": "Event",
+      "image": "incinerator.png"
+    },
+    
     "THE HYPERSPACE REALM": {
       "displayName": "The Hyperspace Realm",
       "category": "Special",
@@ -112,6 +117,11 @@
       "displayName": "The Citadel of Orders",
       "category": "Special",
       "image": "the citadel of orders.png"
+    },
+    "THE NULLS EXISTENCE": {
+      "displayName": "The Nulls Existence",
+      "category": "Special",
+      "image": "the nulls existence.png"
     },
 
     "UNKNOWN": {
