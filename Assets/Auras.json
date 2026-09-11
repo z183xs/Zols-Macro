@@ -49,7 +49,7 @@
     "Atomic_Ribonucleic": {"rarity": 9876, "exclusive_biome": ["None", 1]}
   },
   "UniqueAuras": {
-    "\u2605": {"rarity": 100, "exclusive_biome": ["DREAMSPACE", 1]},
+    "★": {"rarity": 100, "exclusive_biome": ["DREAMSPACE", 1]},
     "Undead": {"rarity": 12000, "exclusive_biome": ["HELL", 6]},
     "Corrosive": {"rarity": 12000, "exclusive_biome": ["CORRUPTION", 5]},
     "Kawaii": {"rarity": 12300, "exclusive_biome": ["None", 1]},
@@ -77,7 +77,7 @@
     "Stormal": {"rarity": 90000, "exclusive_biome": ["WINDY", 3]}
   },
   "LegendaryAuras": {
-    "\u2605\u2605": {"rarity": 1000, "exclusive_biome": ["DREAMSPACE", 1]},
+    "★★": {"rarity": 1000, "exclusive_biome": ["DREAMSPACE", 1]},
     "Fault": {"rarity": 3000, "exclusive_biome": ["GLITCHED", 1]},
     "Exotic": {"rarity": 99999, "exclusive_biome": ["None", 1]},
     "Diaboli_Void": {"rarity": 100400, "exclusive_biome": ["None", 1]},
@@ -99,7 +99,7 @@
     "Kyawthuite": {"rarity": 850000, "exclusive_biome": ["None", 1]}
   },
   "MythicAuras": {
-    "\u2605\u2605\u2605": {"rarity": 10000, "exclusive_biome": ["DREAMSPACE", 1]},
+    "★★★": {"rarity": 10000, "exclusive_biome": ["DREAMSPACE", 1]},
     "Arcane": {"rarity": 1000000, "exclusive_biome": ["None", 1]},
     "Starlight_Kunzite": {"rarity": 1000000, "exclusive_biome": ["STARFALL", 5]},
     "Gothic": {"rarity": 1000001, "exclusive_biome": ["None", 1]},
@@ -155,7 +155,7 @@
     "Helios": {"rarity": 9000000, "exclusive_biome": ["None", 1]},
     "Stargazer": {"rarity": 9200000, "exclusive_biome": ["STARFALL", 5]},
     "Jade_Purity": {"rarity": 9250000, "exclusive_biome": ["None"]},
-    "Amethyst": {"rarity": 9333700, "exclusive_biome": ["None", 1]},
+    "Amethyst": {"rarity": 9333700, "exclusive_biome": ["None", 1]}
   },
   "ExaltedAuras": {
     "Starscourge": {"rarity": 10000000, "exclusive_biome": ["STARFALL", 5]},
@@ -202,8 +202,8 @@
     "Hellbound": {"rarity": 85000000, "exclusive_biome": ["HELL", 6]},
     "Runic_Wilt": {"rarity": 87388744, "exclusive_biome": ["None", 1]},
     "Virtual_WorldWide": {"rarity": 87500000, "exclusive_biome": ["CYBERSPACE", 2]},
-    "Atomic_Nucleus": {"rarity": 92118000, "exclusive_biome": ["None", 1]}
-    "Quarts_Rose": {"rarity": 97500000, "exclusive_biome": ["None", 1]},
+    "Atomic_Nucleus": {"rarity": 92118000, "exclusive_biome": ["None", 1]},
+    "Quarts_Rose": {"rarity": 97500000, "exclusive_biome": ["None", 1]}
   },
   "GloriousAuras": {
     "Chromatic_Genesis": {"rarity": 99999999, "exclusive_biome": ["None", 1]},
@@ -258,14 +258,14 @@
     "Eisveil": {"rarity": 830000000, "exclusive_biome": ["SNOWY", 3]},
     "dreamscape": {"rarity": 850000000, "exclusive_biome": ["None", 1]},
     "Poseidon_Atlantis": {"rarity": 850000000, "exclusive_biome": ["RAINY", 4]},
-    "ASCENDANT": {"rarity": 935000000, "exclusive_biome": ["HEAVEN", 5]},
+    "ASCENDANT": {"rarity": 935000000, "exclusive_biome": ["HEAVEN", 5]}
   },
   "TranscendentAuras": {
     "NYCTOPHOBIA": {"rarity": 1011111010, "exclusive_biome": ["None", 1], "color": 986895},
     "Pixelation": {"rarity": 1073741824, "exclusive_biome": ["CYBERSPACE", 2], "color": "RGB"},
     "Luminosity": {"rarity": 1200000000, "exclusive_biome": ["None", 1], "color": 14745599},
     "BREAKTHROUGH": {"rarity": 1999999999, "exclusive_biome": ["None", 1], "color": 14086143},
-    "EQUINOX": {"rarity": 2500000000, "exclusive_biome": ["None", 1], "color": [16777215, 0]},
+    "EQUINOX": {"rarity": 2500000000, "exclusive_biome": ["None", 1], "color": [16777215, 0]}
   },
   "CraftableAuras": {
     "Eclipse": {"rarity": 100032, "exclusive_biome": ["None"]},
@@ -275,7 +275,7 @@
     "AbyssalHunter_AWAKENED": {"rarity": 1638000000, "exclusive_biome": ["None"]},
     "Matrix_Steampunk": {"rarity": 1841004000, "exclusive_biome": ["None"]},
     "MasterHand": {"rarity": 7625999900, "exclusive_biome": ["None"]},
-    "Calamity of the Crimson Moon": {"rarity": -1, "exclusive_biome": ["None"]},
+    "Calamity of the Crimson Moon": {"rarity": -1, "exclusive_biome": ["None"]}
   },
   "ChallengedAuras": {
     "Glitch": {"rarity": 12210110, "exclusive_biome": ["GLITCHED", 1], "color": 3014735},
@@ -287,16 +287,16 @@
     "Memory": {"rarity": 100, "exclusive_biome": ["None"], "color": 3014735},
     "Neferkhaf": {"rarity": 1000, "exclusive_biome": ["None"], "color": 3014735},
     "Fragments of the Crimson Moon": {"rarity": 1000, "exclusive_biome": ["None"], "color": 3014735},
-    "Meta": {"rarity": 10000, "exclusive_biome": ["CYBERSPACE", 1], "color": 3014735},
+    "Meta": {"rarity": 10000, "exclusive_biome": ["CYBERSPACE", 1], "color": 3014735}
   },
   "Challenged+Auras": {
     "Eden": {"rarity": -1, "exclusive_biome": ["None"], "color": 3014735},
     "Oppression": {"rarity": 220000000, "exclusive_biome": ["GLITCHED", 1], "color": 3014735},
     "Dreammetric": {"rarity": 320000000, "exclusive_biome": ["DREAMSPACE", 1], "color": 3014735},
     "ASTRAIOS": {"rarity": 1750000000, "exclusive_biome": ["SINGULARITY", 1], "color": 3014735},
-    "MONARCH": {"rarity": 3000000000, "exclusive_biome": ["CORRUPTION", 1], "color": 3014735}
+    "MONARCH": {"rarity": 3000000000, "exclusive_biome": ["CORRUPTION", 1], "color": 3014735},
     "OBLIVION": {"rarity": 2000, "exclusive_biome": ["None"], "color": 3014735},
-    "Illusionary": {"rarity": 10000000, "exclusive_biome": ["CYBERSPACE", 1], "color": 3014735},
+    "Illusionary": {"rarity": 10000000, "exclusive_biome": ["CYBERSPACE", 1], "color": 3014735}
   },
   "SpecialAuras": {
     "Origin_Onion": {"rarity": 8000000, "exclusive_biome": ["None", 1]},
