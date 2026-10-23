@@ -50,6 +50,21 @@
       "category": "Regular",
       "image": "null.png"
     },
+    "THE RADIANT FOREST": {
+      "displayName": "The Radiant Forest",
+      "category": "Regular",
+      "image": "the radiant forest.png"
+    },
+    "LOST FOREST": {
+      "displayName": "Lost Forest",
+      "category": "Regular",
+      "image": "lost forest.png"
+    },
+
+
+
+
+    
 
     "GLITCHED": {
       "displayName": "Glitched",
@@ -107,6 +122,11 @@
       "category": "Event",
       "image": "incinerator.png"
     },
+
+
+
+
+    
     
     "THE HYPERSPACE REALM": {
       "displayName": "The Hyperspace Realm",
@@ -123,6 +143,10 @@
       "category": "Special",
       "image": "the nulls existence.png"
     },
+
+
+
+    
 
     "UNKNOWN": {
       "displayName": "Unknown",
