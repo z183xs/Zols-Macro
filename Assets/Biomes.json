@@ -1,157 +1,179 @@
 {
   "Biomes": {
-    "NORMAL": {
-      "displayName": "Normal",
-      "category": "Regular",
-      "image": "normal.png"
-    },
-    "WINDY": {
-      "displayName": "Windy",
-      "category": "Regular",
-      "image": "windy.png"
-    },
-    "SNOWY": {
-      "displayName": "Snowy",
-      "category": "Regular",
-      "image": "snowy.png"
-    },
-    "RAINY": {
-      "displayName": "Rainy",
-      "category": "Regular",
-      "image": "rainy.png"
-    },
-    "SAND STORM": {
-      "displayName": "Sand Storm",
-      "category": "Regular",
-      "image": "sand storm.png"
-    },
-    "HELL": {
-      "displayName": "Hell",
-      "category": "Regular",
-      "image": "hell.png"
-    },
-    "STARFALL": {
-      "displayName": "Starfall",
-      "category": "Regular",
-      "image": "starfall.png"
-    },
-    "HEAVEN": {
-      "displayName": "Heaven",
-      "category": "Regular",
-      "image": "heaven.png"
-    },
-    "CORRUPTION": {
-      "displayName": "Corruption",
-      "category": "Regular",
-      "image": "corruption.png"
-    },
-    "NULL": {
-      "displayName": "Null",
-      "category": "Regular",
-      "image": "null.png"
-    },
-    "THE RADIANT FOREST": {
-      "displayName": "The Radiant Forest",
-      "category": "Regular",
-      "image": "the radiant forest.png"
-    },
-    "LOST FOREST": {
-      "displayName": "Lost Forest",
-      "category": "Regular",
-      "image": "lost forest.png"
+    "RegularBiomes": {
+      "NORMAL": {
+        "displayName": "Normal",
+        "category": "Regular",
+        "image": "normal.png",
+        "pingEveryone": false
+      },
+      "WINDY": {
+        "displayName": "Windy",
+        "category": "Regular",
+        "image": "windy.png",
+        "pingEveryone": false
+      },
+      "SNOWY": {
+        "displayName": "Snowy",
+        "category": "Regular",
+        "image": "snowy.png",
+        "pingEveryone": false
+      },
+      "RAINY": {
+        "displayName": "Rainy",
+        "category": "Regular",
+        "image": "rainy.png",
+        "pingEveryone": false
+      },
+      "SAND STORM": {
+        "displayName": "Sand Storm",
+        "category": "Regular",
+        "image": "sand storm.png",
+        "pingEveryone": false
+      },
+      "HELL": {
+        "displayName": "Hell",
+        "category": "Regular",
+        "image": "hell.png",
+        "pingEveryone": false
+      },
+      "STARFALL": {
+        "displayName": "Starfall",
+        "category": "Regular",
+        "image": "starfall.png",
+        "pingEveryone": false
+      },
+      "HEAVEN": {
+        "displayName": "Heaven",
+        "category": "Regular",
+        "image": "heaven.png",
+        "pingEveryone": false
+      },
+      "CORRUPTION": {
+        "displayName": "Corruption",
+        "category": "Regular",
+        "image": "corruption.png",
+        "pingEveryone": false
+      },
+      "NULL": {
+        "displayName": "Null",
+        "category": "Regular",
+        "image": "null.png",
+        "pingEveryone": false
+      },
+
+    "RareBiomes": {
+      "GLITCHED": {
+        "displayName": "Glitched",
+        "category": "Rare",
+        "image": "glitched.png",
+        "pingEveryone": true
+      },
+      "DREAMSPACE": {
+        "displayName": "Dreamspace",
+        "category": "Rare",
+        "image": "dreamspace.png",
+        "pingEveryone": true
+      },
+      "CYBERSPACE": {
+        "displayName": "Cyberspace",
+        "category": "Rare",
+        "image": "cyberspace.png",
+        "pingEveryone": true
+      },
+      "SINGULARITY": {
+        "displayName": "Singularity",
+        "category": "Rare",
+        "image": "singularity.png",
+        "pingEveryone": false
+      }
+      "THE RADIANT FOREST": {
+        "displayName": "The Radiant Forest",
+        "category": "Rare",
+        "image": "the radiant forest.png",
+        "pingEveryone": false
+      },
+      "LOST FOREST": {
+        "displayName": "Lost Forest",
+        "category": "Rare",
+        "image": "lost forest.png",
+        "pingEveryone": false
+      }
     },
 
-
-
-
-    
-
-    "GLITCHED": {
-      "displayName": "Glitched",
-      "category": "Rare",
-      "image": "glitched.png"
-    },
-    "DREAMSPACE": {
-      "displayName": "Dreamspace",
-      "category": "Rare",
-      "image": "dreamspace.png"
-    },
-    "CYBERSPACE": {
-      "displayName": "Cyberspace",
-      "category": "Rare",
-      "image": "cyberspace.png"
-    },
-    "SINGULARITY": {
-      "displayName": "Singularity",
-      "category": "Rare",
-      "image": "singularity.png"
-    },
-
-    "PUMPKIN MOON": {
-      "displayName": "Pumpkin Moon",
-      "category": "Event",
-      "image": "pumpkin moon.png"
-    },
-    "GRAVEYARD": {
-      "displayName": "Graveyard",
-      "category": "Event",
-      "image": "graveyard.png"
-    },
-    "BLAZING SUN": {
-      "displayName": "Blazing Sun",
-      "category": "Event",
-      "image": "blazing sun.png"
-    },
-    "BLOOD RAIN": {
-      "displayName": "Blood Rain",
-      "category": "Event",
-      "image": "blood rain.png"
-    },
-    "AURORA": {
-      "displayName": "Aurora",
-      "category": "Event",
-      "image": "aurora.png"
-    },
-    "EGGLAND": {
-      "displayName": "Eggland",
-      "category": "Event",
-      "image": "eggland.png"
-    },
-    "INCINERATOR": {
-      "displayName": "incinerator",
-      "category": "Event",
-      "image": "incinerator.png"
+    "EventBiomes": {
+      "PUMPKIN MOON": {
+        "displayName": "Pumpkin Moon",
+        "category": "Event",
+        "image": "pumpkin moon.png",
+        "pingEveryone": false
+      },
+      "GRAVEYARD": {
+        "displayName": "Graveyard",
+        "category": "Event",
+        "image": "graveyard.png",
+        "pingEveryone": false
+      },
+      "BLAZING SUN": {
+        "displayName": "Blazing Sun",
+        "category": "Event",
+        "image": "blazing sun.png",
+        "pingEveryone": false
+      },
+      "BLOOD RAIN": {
+        "displayName": "Blood Rain",
+        "category": "Event",
+        "image": "blood rain.png",
+        "pingEveryone": false
+      },
+      "AURORA": {
+        "displayName": "Aurora",
+        "category": "Event",
+        "image": "aurora.png",
+        "pingEveryone": false
+      },
+      "EGGLAND": {
+        "displayName": "Eggland",
+        "category": "Event",
+        "image": "eggland.png",
+        "pingEveryone": false
+      },
+      "INCINERATOR": {
+        "displayName": "incinerator",
+        "category": "Event",
+        "image": "incinerator.png",
+        "pingEveryone": false
+      }
     },
 
-
-
-
-    
-    
-    "THE HYPERSPACE REALM": {
-      "displayName": "The Hyperspace Realm",
-      "category": "Special",
-      "image": "the hyperspace realm.png"
+    "SpecialBiomes": {
+      "THE HYPERSPACE REALM": {
+        "displayName": "The Hyperspace Realm",
+        "category": "Special",
+        "image": "the hyperspace realm.png",
+        "pingEveryone": false
+      },
+      "THE CITADEL OF ORDERS": {
+        "displayName": "The Citadel of Orders",
+        "category": "Special",
+        "image": "the citadel of orders.png",
+        "pingEveryone": false
+      },
+      "THE NULLS EXISTENCE": {
+        "displayName": "The Nulls Existence",
+        "category": "Special",
+        "image": "the nulls existence.png",
+        "pingEveryone": false
+      }
     },
-    "THE CITADEL OF ORDERS": {
-      "displayName": "The Citadel of Orders",
-      "category": "Special",
-      "image": "the citadel of orders.png"
-    },
-    "THE NULLS EXISTENCE": {
-      "displayName": "The Nulls Existence",
-      "category": "Special",
-      "image": "the nulls existence.png"
-    },
 
-
-
-    
-
-    "UNKNOWN": {
-      "displayName": "Unknown",
-      "category": "Fallback",
-      "image": "unknown_biome.png"
+    "FallbackBiomes": {
+      "UNKNOWN": {
+        "displayName": "Unknown",
+        "category": "Fallback",
+        "image": "unknown_biome.png",
+        "pingEveryone": false
+      }
     }
   }
 }
